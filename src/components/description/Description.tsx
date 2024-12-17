@@ -1,4 +1,4 @@
-import "./description.css";
+import "./Description.css";
 interface Props {
   imgSrc: string;
   desc: string;
