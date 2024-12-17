@@ -1,0 +1,14 @@
+.nav-bar {
+  border: 1px solid red;
+  padding: 2.55rem 8rem;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.link-box {
+  list-style: none;
+  flex-direction: row;
+  font-size: 1.6rem;
+  color: #222222c2;
+  gap: 4.8rem;
+}

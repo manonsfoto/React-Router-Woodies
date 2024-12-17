@@ -1,0 +1,25 @@
+.footer {
+  background-color: #f1f1f1;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-bar {
+  background-color: #c4c4c4;
+  width: 53.8rem;
+  height: 0.1rem;
+  margin-bottom: 0.8rem;
+}
+.footer-textbox {
+  align-items: flex-start;
+  gap: 1.6rem;
+  font-size: 1.4rem;
+  color: #8d8d8d;
+  margin-left: 10.7rem;
+}
+.last-text {
+  font-size: 1.2rem;
+  font-family: "Nunito-SemiBold";
+  position: relative;
+  left: 44rem;
+  top: 4rem;
+}

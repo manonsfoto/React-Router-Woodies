@@ -1,0 +1,19 @@
+.about {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 4rem 10rem 12rem 10rem;
+}
+.about-maintext {
+  font-size: 3.6rem;
+  font-family: "Nunito-SemiBold";
+}
+.about-maintext span {
+  font-family: "Nunito-ExtraBold";
+}
+.about-subtext {
+  font-family: "Nunito-SemiBold";
+  font-size: 2.4rem;
+}
+.about-textbox {
+  width: 50%;
+}

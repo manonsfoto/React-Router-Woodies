@@ -1,0 +1,5 @@
+.products-cardwrapper {
+  flex-direction: row;
+  gap: 5.6rem;
+  margin-bottom: 3rem;
+}

@@ -1,0 +1,11 @@
+.stn-desc {
+  flex-direction: row;
+  gap: 10.4rem;
+  padding-top: 4rem;
+  padding-bottom: 10.8rem;
+}
+.stn-desc p {
+  font-family: "Nunito-SemiBold";
+  font-size: 2.4rem;
+  width: 44.8rem;
+}

@@ -1,0 +1,20 @@
+.headline {
+  flex-direction: row;
+  margin-top: 8rem;
+}
+.headline p {
+  font-size: 3.6rem;
+  font-family: "Nunito-Bold";
+  margin-left: 0.8rem;
+}
+.headline h1 {
+  font-size: 7.2rem;
+  font-family: "Nunito-ExtraBold";
+  text-transform: uppercase;
+  color: #22222232;
+}
+.bar {
+  width: 31.8rem;
+  height: 0.1rem;
+  background-color: black;
+}

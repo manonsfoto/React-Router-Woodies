@@ -1,0 +1,32 @@
+.home-textbox {
+  gap: 1.6rem;
+  align-items: flex-start;
+  margin-top: 14.4rem;
+  margin-left: 10.2rem;
+}
+aside {
+  background-color: #f9bdbd;
+  height: 100vh;
+  width: 37rem;
+  left: 78rem;
+  position: absolute;
+  z-index: -1;
+}
+.home {
+  flex-direction: row;
+  position: relative;
+  justify-content: space-between;
+}
+.imgbox {
+  margin-top: 9.2rem;
+}
+.home-textbox p {
+  font-size: 3.6rem;
+}
+.home-textbox p span {
+  font-family: "Nunito-Bold";
+}
+.home-textbox h1 {
+  font-family: "Nunito-Bold";
+  font-size: 7.2rem;
+}
