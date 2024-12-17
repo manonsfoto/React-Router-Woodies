@@ -1,4 +1,4 @@
-import Description from "../../components/description/description";
+import Description from "../../components/description/Description";
 import Footer from "../../components/footer/Footer";
 import Headline from "../../components/headline/Headline";
 import Nav from "../../components/nav/Nav";
