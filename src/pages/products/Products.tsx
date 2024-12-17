@@ -3,9 +3,9 @@ import Headline from "../../components/headline/Headline";
 import Nav from "../../components/nav/Nav";
 import ProductCard from "../../components/productCard/ProductCard";
 import "./Products.css";
-import imgDesk from "../../../public/img/Tisch.png";
-import imgChair from "../../../public/img/Stuhl.png";
-import imgBowl from "../../../public/img/Schuesseln.png";
+import imgDesk from "/public/img/Tisch.png";
+import imgChair from "/public/img/Stuhl.png";
+import imgBowl from "/public/img/Schuesseln.png";
 const Products = () => {
   return (
     <>

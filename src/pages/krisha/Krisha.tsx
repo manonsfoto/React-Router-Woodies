@@ -1,7 +1,7 @@
 import Footer from "../../components/footer/Footer";
 import Headline from "../../components/headline/Headline";
 import Nav from "../../components/nav/Nav";
-import imgBowl from "../../../public/img/Schuesseln.png";
+import imgBowl from "/public/img/Schuesseln.png";
 import Description from "../../components/description/Description";
 
 const Krisha = () => {

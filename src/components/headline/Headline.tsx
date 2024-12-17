@@ -1,5 +1,5 @@
 import "./Headline.css";
-import flower from "../../../public/img/Flower.png";
+import flower from "/public/img/Flower.png";
 
 interface Props {
   pageName: string;

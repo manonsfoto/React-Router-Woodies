@@ -2,7 +2,7 @@ import Footer from "../../components/footer/Footer";
 import Headline from "../../components/headline/Headline";
 import Nav from "../../components/nav/Nav";
 import "./About.css";
-import imgAbout from "../../../public/img/About.png";
+import imgAbout from "/public/img/About.png";
 
 const About = () => {
   return (
